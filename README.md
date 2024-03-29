@@ -1,4 +1,4 @@
-Hello there! 👋 I'm CELSHIYA C, an English graduate with a passion for web development. Currently, I'm pursuing a Masters in Computer Applications, diving deeper into the world of programming and software development.
+Hello there! 👋 I'm CELSHIYA C, with a passion for web development. Currently, I'm pursuing a Masters in Computer Applications, diving deeper into the world of programming and software development.
 
 BACKGROUND
 Education: I graduated with a Bachelor's degree in English Literature, where I developed strong communication and analytical skills. Now, I'm blending my passion for language with the technical skills gained through my MCA program.
